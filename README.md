@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Afsar K A</h1>
 <h3 align="center">Core Java Developer | Web Development Learner | Final Year Engineering Student | Intern at Xworkz</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-</p>
-
 ---
 
 ### 💡 About Me
