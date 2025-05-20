@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Afsar K A</h1>
 <h3 align="center">Core Java Developer | Web Development Learner | Final Year Engineering Student | Intern at Xworkz</h3>
-   
----
+           
+
 
 ### 💡 About Me
 - 🎓 Final Year Engineering Student passionate about **Core Java** and **problem-solving**
